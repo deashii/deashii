@@ -13,4 +13,4 @@
    <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=deashii&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=deashii&style=flat-square&color=blue" alt="" align = center/>
