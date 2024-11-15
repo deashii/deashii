@@ -18,7 +18,19 @@
 </div>
   <h1 align="center">My skills</a> 
 <div id="skills">
-    <a href = https://www.telegram.com/>
+    <a>
    <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML&logoColor=white" alt="HTML"/>
+    </a>
+    <a>
+   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&logoColor=white" alt="CSS"/>
+    </a>
+    <a>
+   <img src="https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    </a>
+    <a>
+   <img src="https://img.shields.io/badge/Blender-orange?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+    </a>
+    <a>
+   <img src="https://img.shields.io/badge/UE-orange?style=for-the-badge&logo=unrealengine&logoColor=white" alt="UE5"/>
     </a>
 </div>
