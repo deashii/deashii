@@ -16,3 +16,9 @@
 <div id="viewer" align = center>
   <img src="https://komarev.com/ghpvc/?username=deashii&style=flat-square&color=blue" alt=""/>
 </div>
+  <h1 align="center">My skills</a> 
+<div id="skills">
+    <a href = https://www.telegram.com/>
+   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML&logoColor=white" alt="HTML"/>
+    </a>
+</div>
